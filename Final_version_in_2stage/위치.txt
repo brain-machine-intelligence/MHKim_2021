@@ -1,0 +1,5 @@
+- environment : 
+C:\Users\user\AppData\Roaming\Python\Python36\site-packages\gym\envs\atari
+
+- rendering_after_add : 
+C:\Users\user\AppData\Roaming\Python\Python36\site-packages\gym\envs\classic_control
